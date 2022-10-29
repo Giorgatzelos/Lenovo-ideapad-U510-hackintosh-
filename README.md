@@ -16,26 +16,45 @@ NVIDIA GeForce GT 625M 1GB (Unsupported)
 Broadcom BCM94352Z (Network card)
 
 
-What works:
-√ Dual Boot with Windows
+What works & what doesn't:
+==========================
+
 √ Built-in keyboard
+
 √ Built-in trackpad (multi gestures)
+
 √ HDMI Video/Audio with hotplug
+
 √ AirPlay mirroring to AppleTV
+
 √ Native WiFi & Bluetooth via BCM94352Z
+
 √ Native USB3
+
 √ Native audio with AppleHDA
+
 X built-in mic [never really worked ok from MacOsX 10.6 up to macOS 12.6]
+
 √ Built-in camera
+
 X Native power management [Broken after Yosemite IDKW]
+
 √ Battery status
+
 √ Backlight controls with smooth transitions, save/restore across restart
+
 √ Accelerated graphics for HD4000.
+
 √ wired Ethernet
+
 X retina scaling
+
 X Sleep/Wake [Broken After Yosemite]
+
 √ iMessage & Facetime
+
 √ Brightness keys on keyboard
+
 √ Built in Card Reader
 
 
